@@ -1,0 +1,19 @@
+{"data":{
+    "type": "Action",
+    "movieId": "1",
+    "thumbenal": "xyz",
+    "totalViewer": "123",
+    "title": "black panter",
+    "like": "98",
+    "actors": [
+        {
+            "name": "Redae",
+            "thumbenal": "abc"
+        },
+        {
+            "name": "Hagos",
+            "thumbenal": "abc"
+        }
+    ]
+}
+}
