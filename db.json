@@ -1,4 +1,22 @@
-{"banners": [
+{
+"data":{
+    "type": "Action",
+    "movieId": "1",
+    "thumbenal": "xyz",
+    "totalViewer": "123",
+    "title": "black panter",
+    "like": "98",
+    "actors": [
+        {
+            "name": "Redae",
+            "thumbenal": "abc"
+        },
+        {
+            "name": "Hagos",
+            "thumbenal": "abc"
+        }
+    ],
+    "banners": [
     {
       "id": 1,
       "image": "https://superman-academy.com/api/findseat/images/banner_1.jpg"
@@ -16,22 +34,5 @@
       "image": "https://superman-academy.com/api/findseat/images/banner_4.jpg"
     }
   ],
-"data":{
-    "type": "Action",
-    "movieId": "1",
-    "thumbenal": "xyz",
-    "totalViewer": "123",
-    "title": "black panter",
-    "like": "98",
-    "actors": [
-        {
-            "name": "Redae",
-            "thumbenal": "abc"
-        },
-        {
-            "name": "Hagos",
-            "thumbenal": "abc"
-        }
-    ]
 }
 }
