@@ -15,8 +15,8 @@
       "id": 4,
       "image": "https://superman-academy.com/api/findseat/images/banner_4.jpg"
     }
-  ]}
-{"data":{
+  ]
+"data":{
     "type": "Action",
     "movieId": "1",
     "thumbenal": "xyz",
